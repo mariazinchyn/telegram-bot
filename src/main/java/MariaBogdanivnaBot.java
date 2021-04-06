@@ -9,7 +9,7 @@ public class MariaBogdanivnaBot extends TelegramLongPollingBot {
     }
 
     public String getBotToken() {
-        return "1754750254:AAGTZUvFtY5PixuvnkKysi7bgyIT95x4gug";
+        return "BOT_token";
     }
 
     public void onUpdateReceived(Update update) {
